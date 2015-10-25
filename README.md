@@ -13,7 +13,7 @@ For further details about IBM Installation Manager response files, including sam
 
 ## Platform:
 
-* AIX
+* AIX (Tested on AIX 7.1)
 
 ## Cookbooks:
 
